@@ -1,0 +1,10 @@
+class Car (name, type, color){
+  this.name = name
+  this.type = type
+  this.color = color
+}
+
+const tesla ('Tesla', 'RS', 'White')
+
+console.log(tesla)
+ 
